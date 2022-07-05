@@ -1,7 +1,7 @@
 # To-do-list-Web-app
 A To do list web application with database
 
-A to-do-list web app for your daily chores deployed for remote use on WWW. 
+A to-do-list web app for your daily chores deployed for on the internet with database. 
 
 https://warm-citadel-01778.herokuapp.com
 
